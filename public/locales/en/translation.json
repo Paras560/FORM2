@@ -1,0 +1,244 @@
+{
+  "Thanks": {
+    "1": "Thank you"
+  },
+  "Why": {
+    "1": "この動画を見るには"
+  },
+  "Register Now?": {
+    "1": "Register Now"
+  },
+  "Don't have an account": {
+    "1": "Don't have an account?"
+  },
+  "or": {
+    "1": "or"
+  },
+  "Remember me": {
+    "1": "Remember me"
+  },
+  "Forgot Password?": {
+    "1": "Forgot Password?"
+  },
+  "Password": {
+    "1": "Password"
+  },
+  "Email Address": {
+    "1": "Email Address"
+  },
+  "Login": {
+    "1": "Login"
+  },
+  "Logout": {
+    "1": "Logout"
+  },
+  "Profile": {
+    "1": "My Profile"
+  },
+  "Confirm Password": {
+    "1": "Confirm Password"
+  },
+  "Accept terms and conditions": {
+    "1": "Accept terms and conditions"
+  },
+  "SignUp": {
+    "1": "SignUp"
+  },
+  "Login Now?": {
+    "1": "Login Now?"
+  },
+  "Already have an account": {
+    "1": "Already have an account"
+  },
+  "Terms and Condition": {
+    "1": "Terms and Condition"
+  },
+  "terms": {
+    "1name": "Our Approach to Personal Information Protection",
+    "1": "NAiT Co., Ltd. (hereinafter referred to as 'our company') may acquire and use information such as the customer's name or company address, telephone number, and e-mail address in order to provide our application services. We comply with the proper protection of personal information (hereinafter referred to as 'personal information') of these customers, and handle personal information under the following policy.",
+    "1a": "In addition to complying with the Act on the Protection of Personal Information and other related laws and regulations that apply to personal information, we will comply with generally accepted practices regarding the handling of personal information and handle it appropriately. We will also strive to improve our handling as appropriate.",
+    "1b": "We will clarify the guidelines regarding the handling of personal information and ensure that all employees are aware of them. We also request our business partners, etc., to handle personal information appropriately.",
+    "1c": "When acquiring personal information, we specify the purpose of use and notify or announce it, and handle personal information according to the purpose of use.",
+    "1d": "We will receive requests from customers for disclosure, correction, deletion, and suspension of use of personal information held by us at our designated contact point and will respond in good faith.",
+    "2name": "Purpose of use, etc.",
+    "2": "As part of our Internet business, we acquire personal information that is necessary for the execution of our business. Let me do it. In addition, in order to facilitate business operations, the Company may outsource a part of the business and provide personal information to the outsourcing party to the extent necessary. We will conduct appropriate management, including concluding a contract with the third party regarding the handling of personal information.",
+    "3name": "Disclosure and provision to third parties",
+    "3": "We will not disclose or provide personal information to third parties, except in the case of provision to subcontractors described in “2. Purpose of use, etc.” or in any of the following cases.",
+    "3a": "When there is consent from the customer himself/herself",
+    "3b": "When disclosing or providing personal information in a form that makes it impossible to identify the individual, such as statistical data",
+    "3c": "When disclosure/provision is requested based on laws and ordinances",
+    "3d": "When it is necessary to protect human life, body or property and it is difficult to obtain the customer's consent",
+    "3e": "When it is necessary to cooperate with the national government or local governments in carrying out public affairs, and obtaining the customer's consent may interfere with the execution of the said business.",
+    "4name": "Disclosure",
+    "4": "If a customer wishes to disclose his or her personal data held by the Company, after confirming the identity of the person making the request, we will respond within a reasonable period and scope. Masu.",
+    "5name": "Correction, deletion, etc.",
+    "5": "If you wish to correct, add or delete your own information regarding the personal data held by our company, we will confirm that the person who made the request is the person in question, and then correct the content that is different from the fact. If so, we will correct, add or remove information within a reasonable period of time and scope.",
+    "6name": "Suspension/deletion",
+    "6": "Regarding the personal data held by our company, if you wish to stop using or erase your own information, after confirming that the person who made the request is the person himself, we will do so within a reasonable period and scope. Suspend or delete. If we stop using or delete all or part of this information, we may be unable to provide the services that meet your request, so we ask for your understanding and cooperation.",
+    "7name": "How to receive disclosure, etc.",
+    "7": "We will accept requests for the above 4, 5 and 6 regarding personal data held by our company and other inquiries regarding personal information by the following methods. Please note that we may not be able to respond to requests for disclosure, etc. that do not follow this reception method."
+  },
+  "secondTerms": {
+    "title": "Reception procedure",
+    "description": "Please apply by mail or e-mail to the window below. We will inform you about the details of the reception procedure when you make a request. I will. In addition, depending on the content of your request, we may ask you to submit an application form prescribed by our company."
+  },
+  "thirdTerms": {
+    "title": "Reception desk",
+    "description": "〒326-0845 Dream K-C, 845-1 Omae-cho, Ashikaga, Tochigi Prefecture NAiT (Night) Co., Ltd. Personal information counter E-mail: support@nait-altg.com"
+  },
+  "fourthTerms": {
+    "title": "Confirmation of the principal or agent",
+    "description": "In the case of an application from the person himself/herself, we will confirm the identity of the person in question such as a driver's license, passport, health insurance card, seal certificate, etc., and call back to the phone number registered with our company. , name, address, telephone number, and other information registered with us. If the application is made by an agent, we will confirm that the agent is the agent by verifying the power of attorney and the seal registration certificate of the seal stamped on the power of attorney, or by calling the person himself/herself. In addition, on this site, we may ask you to enter personal information such as your name, address, telephone number, etc. when we receive questions, applications, and document requests from customers. Based on the above policy, we will properly protect such information, and will never use it for any other purpose or provide it to a third party."
+  },
+  "fifthTerms": {
+    "title": "Information Security Policy Group",
+    "description": "NAiT Information Security Policy Group"
+  },
+  "sixthTerms": {
+    "title": "the purpose",
+    "description": "The mission of an information service provider is to prevent problems from occurring and raise awareness of each information asset by establishing basic rules to protect customers and the company itself."
+  },
+  "seventhTerms": {
+    "title": "Basic principle",
+    "description": "What we should protect",
+    "1": "Confidential information about customers (companies/organizations)",
+    "2": "Privacy information about customers (individuals)",
+    "3": "Confidential information such as our information assets and business know-how"
+  },
+  "eigthTerms": {
+    "title": "Main issues to recognize",
+    "1": "Information leakage due to unauthorized access",
+    "2": "Information leakage by physical means by outsiders",
+    "3": "Breach of trust by in-house workers"
+  },
+  "ninthTerms": {
+    "title": "Countermeasure policy",
+    "1": "Thoroughly disseminate the policy and conduct education on information security.",
+    "2": "Implement measures to provide trust to customers in a way that is consistent with business conduct.",
+    "3": "Comply with relevant laws and regulations and create a situation in which it is difficult for in-house workers to commit acts of breach of trust. April 1, 2019 Representative Director Naofumi Matsumoto"
+  },
+  "Close": {
+    "1": "Close"
+  },
+  "Send Email": {
+    "1": "Send Email"
+  },
+  "Site Detail": {
+    "1": "Site Detail"
+  },
+  "Dashboard": {
+    "1": "Dashboard"
+  },
+  "User Board": {
+    "1": "User Board"
+  },
+  "Menu Name": {
+    "1": "Menu Name"
+  },
+  "Safety Declaration": {
+    "1": "Safety Declaration"
+  },
+  "Report": {
+    "1": "Report"
+  },
+  "CHOUREY Print": {
+    "1": "Chourey Print"
+  },
+  "Sub Admin": {
+    "1": "Sub Admin"
+  },
+  "Site Code Registration": "Site Code Registration",
+  "Site Code Information": "Site Code Information",
+  "Create Site": "Create Site",
+  "Chourey 1": "Chourey 1",
+  "Chourey 2": "Chourey 2",
+  "Disaster": "Disaster",
+  "Update": "Update",
+  "User Access": "User Access",
+  "Smartphone: User Access": "Smartphone: User Access",
+  "SP: Safety Declaration": "SP: Safety Declaration",
+  "Operation Log": "Operation Log",
+  "Search": "Search",
+  "Device Mapping": {
+    "1": "Device Mapping"
+  },
+  "Sites Storage": {
+    "1": "Sites Storage"
+  },
+  "Common Contents": {
+    "1": "Common Contents"
+  },
+  "User List": {
+    "1": "User List"
+  },
+  "S.NO": "S.NO",
+  "Site Code": "Site Code",
+  "Unassigned Code": "Unassigned Code",
+  "Assigned Code": "Assigned Code",
+  "Generate Code": "Generate Code",
+  "Delete": "Delete",
+  "Detail": "Detail",
+  "Edit": "Edit",
+  "Username": "Username",
+  "Company Name": "Company Name",
+  "Phone Number": "Phone Number",
+  "Site Name": "Site Name",
+  "Enabled": "Enabled",
+  "Set Time Period": "Set Time Period",
+  "Unassigned Site": "Unassigned Site",
+  "Assigned Site": "Assigned Site",
+  "Current Storage": "Current Storage",
+  "Online User": "Online User",
+  "Register": "Register",
+  "Period Start": "Period Start",
+  "Period End": "Period End",
+  "GPS Range(m)": "GPS Range(m)",
+  "Browse Time From": "Browse Time From",
+  "Browse Time To": "Browse Time To",
+  "Longitude": "Longitude",
+  "Latitude": "Latitude",
+  "QR Value": "QR Value",
+  "Create Site": {
+    "1": "Create Site"
+  },
+  "Reset Password": "Reset Password",
+  "Back to": "Back to",
+  "Admin": "Admin",
+  "Logged in User List": "Logged in User List",
+  "Device List": "Device List",
+  "Email": "Email",
+  "Full Name (Kana)": "Full Name (Kana)",
+  "Full Name (Kanji)": "Full Name (Kanji)",
+  "Date Of Register": "Date Of Register",
+  "Browse Date": "Browse Date",
+  "Create User": "Create User",
+  "Save": "Save",
+  "Device Type": "Device Type",
+  "Assign": "Assign",
+  "Edit Device Mapping": "Edit Device Mapping",
+  "Assign Device Mapping": "Assign Device Mapping",
+  "Title": "Title",
+  "Active": "Active",
+  "Upload Photo": "Upload Photo",
+  "Create": "Create",
+  "Generate": "Generate",
+  "Update Site": "Update Site",
+  "Print QR": "Print QR",
+  "Todays Date": "Today's Date",
+  "Time Period": "Time Period",
+  "Browse Time": "Browse Time",
+  "Full Name": "Full Name",
+  "KanaName": "Kananame",
+  "Status": "Status",
+  "Category": "Category",
+  "Change Type": "Change Type",
+  "Change Category": "Change Category",
+  "Changed Property": "Changed Property",
+  "Site User SmartPhone": "Site User SmartPhone",
+  "TermsFirst": "Privacy policy",
+  "Smart Chourey": "Smart Chourey",
+  "Download": "Download",
+  "Recover Password": "Recover Password",
+  "Enter registered email address": "Enter registered email address",
+  "Cancel": "Cancel"
+}
